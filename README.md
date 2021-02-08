@@ -1,9 +1,15 @@
 # Dishonored 1.1
 A VERY small Dishonored modlist.
 
-This modlist features the Missionstats mod that allows you to track your statistics while playing a mission and my personal ReShade preset.
-Nothing more.
-Cause there isn't really more.
+##Description
+This is a list that just brings a little quality of life feature into Dishonored, the mid mission stats page and detection and kill notices, that are by default available in Dishonored 2. This is why I called this list Dishonred 1.1.
+Also I have included my personal reshade preset, since I thought it did fit well with the game.
+
+I would potentially have included more, but can't because there isn't really more.
 The only other mods there are, I would consider cheat mods.
 
-This list does not use Mod Organizer 2.
+##Installation
+
+- get the .wabbajack file of the list.
+- use the install local modlist to install it.
+- go to the install directory and copy the contents of the `Game Folder Files` folder into your games base folder. In most cases it should be called `Dishonored`.
