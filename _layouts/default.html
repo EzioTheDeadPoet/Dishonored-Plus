@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="image" property="og:image" content="https://eziothedeadpoet.github.io/AboutMe/assets/images/Profile Picture SQUARE.png">
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <link rel="icon" href="https://raw.githubusercontent.com/EzioTheDeadPoet/AboutMe/master/assets/images/favicon64px.png"  type="image/x-icon">
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="headertext">
+          <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+          <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+        <div class="header">
+          <p>My Personal Projects:</p>
+          <a class="buttons mainpage" href="https://eziothedeadpoet.github.io/SME-FT-/">SME(FT)</a>
+          <a class="buttons mainpage" href="https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/">Tales f. t. Northern Lands</a>
+          <a class="buttons mainpage" href="https://www.nexusmods.com/users/42051055?tab=user+files">My Nexusmods Files</a>
+          <a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a>
+          <a class="buttons mainpage" href="https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html">The Hall of Fame</a>
+          <p>Projects I am Part of:</p>
+          <a class="buttons mainpage" href="https://www.wabbajack.org/#/">Wabbajack Tool</a>
+          <a class="buttons mainpage" href="https://discord.gg/wabbajack">Wabbajack Discord</a>
+        </div>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+    </div>
+  </body>
+</html>
