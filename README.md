@@ -1,7 +1,7 @@
 # Dishonored Plus
 
-A VERY small Dishonored modlist.
 ![Dishonored Plus](./assets/images/Dishonored_Plus.png)
+A **VERY** small Dishonored modlist.
 
 ## Description
 
