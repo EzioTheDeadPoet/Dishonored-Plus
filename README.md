@@ -13,3 +13,4 @@ The only other mods there are, I would consider cheat mods.
 - get the .wabbajack file of the list.
 - use the install local modlist to install it.
 - go to the install directory and copy the contents of the `Game Folder Files` folder into your games base folder. In most cases it should be called `Dishonored`.
+- run the game and enjoy.
