@@ -12,7 +12,8 @@ The only other mods there are, I would consider cheat mods.
 
 ## Installation
 
-- get the .wabbajack file of the list.
+- this instructions assume that you have [Wabbajack](https://www.wabbajack.org/#/) already installed.
+- download the [.wabbajack](https://github.com/EzioTheDeadPoet/Dishonored-Plus/releases/download/1.0/Dishonored.Plus.wabbajack) file of the list.
 - use the install local modlist to install it.
 - go to the install directory and copy the contents of the `Game Folder Files` folder into your games base folder. In most cases it should be called `Dishonored`.
 - run the game and enjoy.
