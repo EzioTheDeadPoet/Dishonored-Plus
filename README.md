@@ -1,7 +1,10 @@
 # Dishonored 1.1
+
 A VERY small Dishonored modlist.
+![Dishonored 1.1](./assets/images/Dishonored_1.1.png)
 
 ## Description
+
 This is a list that just brings some little quality of life features into Dishonored, the mid mission stats page and detection and kill notices, that are by default available in Dishonored 2, the startup movie skip and the despawning bodies fix. This is why I called this list Dishonred 1.1 there simply isn't much besides these quality of life changes you can do with this great game that is Dishonored.
 Also I have included my personal reshade preset, since I thought it did fit well with the game.
 
