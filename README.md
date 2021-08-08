@@ -12,7 +12,7 @@ The only other mods there are, I would consider cheat mods.
 
 ## Installation
 
-### Pre-Installation
+### Preparation
 
 #### Set the Game language to English
 
