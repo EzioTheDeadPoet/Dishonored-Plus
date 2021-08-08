@@ -23,7 +23,7 @@ For GOG Galaxy use the tool/settings provided.
 
 #### Clean Game
 
-Make sure to remove all remains 
+Make sure to verify your game installation and clean out any other mods you might have installed.
 
 ### Using Wabbajack
 
