@@ -1,6 +1,8 @@
 # Dishonored Plus
 
 ![Dishonored Plus](./assets/images/Dishonored_Plus.webp)
+![Discord](https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Discord)
+
 A **VERY** small Dishonored modlist.
 
 ## Description
