@@ -78,4 +78,4 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Contact
 
-I'm nearly always available on the [Wabbajack Discord](https://discord.gg/wabbajack).
+If you need help with this list please join the [Aetherius Modding Discord](https://discord.gg/aetherius-modding)
