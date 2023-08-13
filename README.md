@@ -1,7 +1,7 @@
 # Dishonored Plus
 
-![Dishonored Plus](./assets/images/Dishonored_Plus.webp)
-![Discord](https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Discord)
+![Dishonored Plus](./assets/images/Dishonored_Plus.webp)  
+![Discord](https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Discord&link=https%3A%2F%2Fdiscord.gg%2Faetherius-modding)
 
 A **VERY** small Dishonored modlist.
 
